@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu Blog</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Meu Blog Tech</h1>
+<img src="Gemini_Generated_Image_p6mim8p6mim8p6mi.png" alt="Educação Digital" width="300" height="200">
+<p>Vou compartilhar informações sobre tecnologia e programação</p>
+</header>
+<main>
+<img src="criançasnocomputador.jpg" alt="Educação Digital" width="300" height="200">
+<div>
+<h2>Meu Primeiro Post</h2>
+<p>Bem vindo ao meu site</p>
+<p>Por: Prof Eduardo Schemberg</p>
+<button> 🚀 0</button>
+</div>
+</main>
+</body>
+<script src="script.js"></script>
+</html>
